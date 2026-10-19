@@ -22,7 +22,7 @@ player1 = pygame.Rect(275, 340, 50, 40)
 player1_speed = 15
 # Player 2
 player2 = pygame.Rect(400, 340, 50, 40)
-player2_speed = 13
+player2_speed = 15
 
 # Falling block
 blocks = []
