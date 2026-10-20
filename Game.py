@@ -27,7 +27,7 @@ player2_speed = 15
 # Falling block
 blocks = []
 
-for i in range(4):
+for i in range(5):
     block = pygame.Rect(
         random.randint(0, WIDTH - 30),
         -i * 100,
